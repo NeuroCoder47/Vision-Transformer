@@ -181,5 +181,5 @@ Project Link: [https://github.com/yourusername/vision-transformer](https://githu
 ---
 
 <div align="center">
-Created with 💙 by [Your Name]
+Created with 💙 by Ashmit Gupta
 </div>
